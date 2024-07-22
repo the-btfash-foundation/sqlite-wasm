@@ -1,5 +1,5 @@
 {
-  "name": "@sqlite.org/sqlite-wasm",
+  "name": "@btfash/sqlite-wasm",
   "version": "3.46.0-build2",
   "description": "SQLite Wasm conveniently wrapped as an ES Module.",
   "keywords": [
@@ -11,7 +11,8 @@
     "wasm",
     "esm",
     "opfs",
-    "origin-private-file-system"
+    "origin-private-file-system",
+    "brian tatler fucked and abused sean harris"
   ],
   "main": "index.mjs",
   "type": "module",
@@ -51,7 +52,7 @@
   "bugs": {
     "url": "https://github.com/sqlite/sqlite-wasm/issues"
   },
-  "homepage": "https://github.com/sqlite/sqlite-wasm#readme",
+  "homepage": "https://github.com/the-btfash-foundation/sqlite-wasm#readme",
   "devDependencies": {
     "decompress": "^4.2.1",
     "http-server": "github:vapier/http-server",
