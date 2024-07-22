@@ -1881,7 +1881,7 @@ declare type Sqlite3Static = {
    * for use with, arbitrary WASM runtime environments.
    */
   wasm: WASM_API;
-
+  installOpfsVfs: (options: { proxyUri: string | URL }) => Promise<unknown>;
   /** The OO API #1. */
   oo1: {
     OpfsDb: typeof OpfsDatabase;
